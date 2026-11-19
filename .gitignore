@@ -1,0 +1,11 @@
+/data/*
+!/data/.gitkeep
+/build/
+/results/reports/*
+/results/submissions/*
+*.o
+*.so
+*.a
+__pycache__/
+.pytest_cache/
+.venv/
