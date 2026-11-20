@@ -1,0 +1,19 @@
+Competition: Santa 2026 - The Elf Calculator
+Dataset: puzzles.csv
+Submission: sample_submission.csv
+
+Puzzles: 1000
+Valid programs: 1000
+Invalid programs: 0
+
+Total instructions: 1490379
+Average instructions per puzzle: 1490.379
+
+Operations:
+  Addition:       1462481
+  Multiplication: 26898
+  Subtraction:    0
+  Division:       1000
+
+Total program bytes: 17885548
+Validation: PASS
